@@ -42,19 +42,19 @@ Zero seating conflicts across all halls, including the adversarial 2-course stre
 
 **Algorithm comparison** — greedy coloring vs. backtracking across metrics:
 
-![Algorithm comparison](output/halls/algorithm_comparison.png)
+![Algorithm comparison](output/algorithm_comparison.png)
 
 **Greedy vs. backtracking** performance under increasing constraint pressure:
 
-![Greedy vs backtracking](output/halls/greedy_vs_backtrack.png)
+![Greedy vs backtracking](output/greedy_vs_backtrack.png)
 
 **Scaling experiment** — empirical runtime growth vs. theoretical complexity:
 
-![Scaling experiment](output/halls/scaling_experiment.png)
+![Scaling experiment](output/scaling_experiment.png)
 
 **Stress test layout** — worst-case 2-course seating result:
 
-![Stress test layout](output/halls/stress_test_layout.png)
+![Stress test layout](output/stress_test_layout.png)
 
 ## GUI
 
