@@ -1,0 +1,6 @@
+matplotlib>=3.5.0
+networkx>=2.8
+pandas>=1.4.0
+numpy>=1.22.0
+customtkinter>=5.0.0
+pillow>=9.0.0
